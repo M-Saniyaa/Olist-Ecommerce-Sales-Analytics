@@ -188,7 +188,7 @@ Download the complete interactive Excel workbook:
 
 👉 [**Download Ecommerce Sales Analytics.xlsx**](./Ecommerce_Sales_Analytics.xlsx)
 
-> **Note:** GitHub may not preview the workbook in the browser because of its file size. Download the file to open the interactive dashboard in Microsoft Excel.
+> **Note:** GitHub may not preview the workbook in the browser because of its file size. Open the workbook in Microsoft Excel to explore the interactive dashboard, PivotTables, slicers, and Data Model.
 
 ---
 
